@@ -23,7 +23,7 @@ public class Program {
 		
 		compte.addOperation(new Operation(new Date(2022,3,10), "VERS", 1500, compte));
 		
-			
+		System.out.println("\n");	
 		System.out.println("Client: "+ client.getNom()+" "+client.getPrenom());
 		System.out.println("Compte: "+ compte.getNumero()+"\n");
 		
