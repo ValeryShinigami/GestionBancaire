@@ -14,4 +14,8 @@ montant
 - Un client est défini par un id, un nom et un prénom
 
 
-![Capture d’écran 2022-03-04 à 16 02 25](https://user-images.githubusercontent.com/77153796/156787507-6df51de8-5ac0-4d18-b95f-18930328b2c2.png)
+![Capture d’écran 2022-03-04 à 16 09 22](https://user-images.githubusercontent.com/77153796/156788237-0db117d5-62da-4bf2-b439-61a18cf42b81.png)
+
+
+![Capture d’écran 2022-03-02 à 15 54 02](https://user-images.githubusercontent.com/77153796/156788350-31f73e6f-461b-47aa-a7b0-e3a16229fd5c.png)
+![Capture d’écran 2022-03-02 à 15 53 47](https://user-images.githubusercontent.com/77153796/156788382-c7eb5583-08e0-4612-a95e-f8f1f249fe8a.png)
