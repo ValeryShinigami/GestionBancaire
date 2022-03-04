@@ -12,3 +12,6 @@ appartient à un client.
 - Une opération est définie par une date, un type d'opération (versement ou retrait) et un 
 montant
 - Un client est défini par un id, un nom et un prénom
+
+
+![Capture d’écran 2022-03-04 à 16 02 25](https://user-images.githubusercontent.com/77153796/156787507-6df51de8-5ac0-4d18-b95f-18930328b2c2.png)
